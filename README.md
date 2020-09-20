@@ -1,2 +1,4 @@
-# -Analysis-of-decline-of-no.-of-flyers-of-Airlines-prediction-of-customer-satisfaction-Case-study
-Worked on dataset of Blue Delta Airways, a well-known budget airline company, containing customer satisfaction level – based on several personal and services-based attributes, such as in-flight services, cleanliness, and legroom
+# Analysis of decline of no. of flyers of Airlines prediction of customer satisfaction-Case study
+Worked on dataset of Blue Delta Airways, a well-known budget airline company, containing customer satisfaction level – based on several personal and services-based attributes, such as in-flight services, cleanliness, legroom etc.
+Performed data cleaning, feature scaling, EDA on the data to analyze the causes of decline of flyers and fitted ML models like Logistic regression, SVM, Naïve Bayes, Decision Tree, Random forest, XGBoost with hyper-parameter tuning of each to predict the customer satisfaction level.
+	Successfully pointed out the root causes of decline and the ways to improve business of the airlines and I was able to predict the customer satisfaction levels accurately to about 96% by the Random Forest and XGBoost models.
